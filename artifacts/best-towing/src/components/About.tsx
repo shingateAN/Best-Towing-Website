@@ -40,7 +40,7 @@ export default function About() {
             transition={{ duration: 0.6 }}
             className="w-full lg:w-1/2"
           >
-            <h2 className="text-4xl md:text-5xl font-heading font-extrabold uppercase tracking-tight text-[#111111] mb-6">
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-heading font-extrabold uppercase tracking-tight text-[#111111] mb-6">
               About Best Towing
             </h2>
             <p className="text-lg text-gray-600 leading-relaxed mb-8">

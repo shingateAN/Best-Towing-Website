@@ -43,7 +43,7 @@ function Counter({
 
   return (
     <div ref={ref} className="text-center">
-      <div className="text-5xl md:text-6xl font-heading font-extrabold text-[#111111] mb-2 tracking-tighter">
+      <div className="text-4xl md:text-5xl lg:text-6xl font-heading font-extrabold text-[#111111] mb-2 tracking-tighter">
         {count}
         {suffix}
       </div>

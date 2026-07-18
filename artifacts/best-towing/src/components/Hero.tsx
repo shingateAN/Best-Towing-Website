@@ -36,7 +36,7 @@ export default function Hero() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
-            className="text-5xl md:text-7xl lg:text-8xl font-heading font-extrabold text-white leading-[1.1] tracking-tighter uppercase mb-6"
+            className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-heading font-extrabold text-white leading-[1.1] tracking-tighter uppercase mb-6"
           >
             Fast, Reliable <br className="hidden md:block" />
             <span className="text-primary">24/7 Towing</span>

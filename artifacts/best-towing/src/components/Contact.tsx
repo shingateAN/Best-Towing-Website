@@ -12,7 +12,7 @@ export default function Contact() {
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
-            className="text-4xl md:text-5xl font-heading font-extrabold uppercase tracking-tight text-[#111111] mb-4"
+            className="text-3xl md:text-4xl lg:text-5xl font-heading font-extrabold uppercase tracking-tight text-[#111111] mb-4"
           >
             Contact Us
           </motion.h2>
@@ -44,7 +44,7 @@ export default function Contact() {
                 <div className="font-bold text-sm uppercase tracking-wider opacity-80 mb-1">
                   Call Us 24/7
                 </div>
-                <div className="font-heading font-extrabold text-3xl md:text-4xl tracking-tight">
+                <div className="font-heading font-extrabold text-xl md:text-2xl tracking-tight">
                   +1 (559) 759-5650
                 </div>
               </div>
@@ -64,7 +64,7 @@ export default function Contact() {
                 <div className="font-bold text-sm uppercase tracking-wider text-gray-500 mb-1">
                   Location
                 </div>
-                <div className="font-heading font-bold text-2xl text-[#111111]">
+                <div className="font-heading font-bold text-lg text-[#111111]">
                   California, USA
                 </div>
                 <div className="text-gray-600">
@@ -87,7 +87,7 @@ export default function Contact() {
                 <div className="font-bold text-sm uppercase tracking-wider text-gray-500 mb-1">
                   Hours
                 </div>
-                <div className="font-heading font-bold text-2xl text-[#111111]">
+                <div className="font-heading font-bold text-lg text-[#111111]">
                   24 Hours
                 </div>
                 <div className="text-gray-600">

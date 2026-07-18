@@ -46,7 +46,7 @@ export default function FAQ() {
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
-            className="text-4xl md:text-5xl font-heading font-extrabold uppercase tracking-tight text-[#111111] mb-4"
+            className="text-3xl md:text-4xl lg:text-5xl font-heading font-extrabold uppercase tracking-tight text-[#111111] mb-4"
           >
             Frequently Asked Questions
           </motion.h2>
