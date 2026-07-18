@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "Best Towing"
+version = "1.0.0"
+id = "artifacts/best-towing"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23688
+
+[services.development]
+run = "pnpm --filter @workspace/best-towing run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/best-towing", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/best-towing/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23688"
+BASE_PATH = "/"

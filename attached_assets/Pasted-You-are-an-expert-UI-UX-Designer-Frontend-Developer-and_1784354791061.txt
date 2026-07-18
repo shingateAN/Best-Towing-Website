@@ -1,0 +1,532 @@
+You are an expert UI/UX Designer, Frontend Developer, and SEO Expert.
+
+Your task is to design and develop a complete, modern, premium-quality website for a towing company.
+
+The website should look like a premium service website similar to companies that charge thousands of dollars for web design.
+
+The design should be original, visually impressive, trustworthy, and highly optimized for generating phone calls.
+
+---------------------------------------------------
+BUSINESS INFORMATION
+---------------------------------------------------
+
+Business Name:
+Best Towing
+
+Business Category:
+24/7 Towing Service
+
+Phone Number:
++1 (559) 759-5650
+
+Address:
+California, USA
+
+Reviews:
+★★★★★
+5 Reviews
+5.0 Rating
+
+---------------------------------------------------
+DESIGN STYLE
+---------------------------------------------------
+
+Create an extremely modern UI.
+
+The website should feel:
+
+• Premium
+• Bold
+• Professional
+• Fast
+• Trustworthy
+• Mobile First
+
+Avoid generic templates.
+
+Use large sections with plenty of spacing.
+
+Rounded cards.
+
+Modern shadows.
+
+Glassmorphism only where appropriate.
+
+Smooth transitions.
+
+Micro interactions.
+
+Beautiful hover effects.
+
+Professional iconography.
+
+High quality royalty-free images from Unsplash or Pexels.
+
+Use Font Awesome icons.
+
+---------------------------------------------------
+COLOR PALETTE
+---------------------------------------------------
+
+Create a powerful towing brand identity.
+
+Primary Color:
+#FFD400 (Tow Truck Yellow)
+
+Secondary Color:
+#111111 (Matte Black)
+
+Accent Color:
+#FF6B00
+
+Background:
+#F8F9FA
+
+Dark Sections:
+#1A1A1A
+
+Text:
+#222222
+
+Light Text:
+#FFFFFF
+
+Buttons:
+
+Primary:
+Yellow background
+Black text
+
+Hover:
+Orange background
+
+Secondary Button:
+Black background
+White text
+
+Hover:
+Yellow background
+
+---------------------------------------------------
+TYPOGRAPHY
+---------------------------------------------------
+
+Use modern Google Fonts.
+
+Headings:
+Poppins ExtraBold
+
+Body:
+Inter
+
+Buttons:
+Poppins SemiBold
+
+Large hero typography.
+
+Excellent readability.
+
+---------------------------------------------------
+ANIMATIONS
+---------------------------------------------------
+
+Implement beautiful animations throughout.
+
+Use AOS (Animate On Scroll).
+
+Fade Up
+
+Fade Left
+
+Fade Right
+
+Zoom In
+
+Cards animate on scroll.
+
+Buttons have ripple or scale hover effects.
+
+Images gently zoom on hover.
+
+Counters animate.
+
+Smooth scrolling.
+
+Sticky header.
+
+Animated mobile menu.
+
+Floating call button.
+
+Back to Top button.
+
+---------------------------------------------------
+WEBSITE STRUCTURE
+---------------------------------------------------
+
+Create the following pages.
+
+HOME
+
+ABOUT
+
+SERVICES
+
+WHY CHOOSE US
+
+REVIEWS
+
+FAQ
+
+CONTACT
+
+---------------------------------------------------
+HOME PAGE
+---------------------------------------------------
+
+Large hero section.
+
+Background image:
+Professional tow truck.
+
+Dark overlay.
+
+Large headline:
+
+"Fast, Reliable 24/7 Towing Services in California"
+
+Subheadline:
+
+Professional towing services available anytime, anywhere.
+
+CTA Buttons:
+
+Call Now
+
+Get Assistance
+
+Display:
+
+★★★★★
+
+5.0 Rating
+
+5 Reviews
+
+Emergency badge.
+
+---------------------------------------------------
+SERVICES
+---------------------------------------------------
+
+Create modern service cards.
+
+Emergency Towing
+
+Roadside Assistance
+
+Flat Tire Service
+
+Jump Start
+
+Battery Replacement
+
+Vehicle Recovery
+
+Winch Out
+
+Fuel Delivery
+
+Motorcycle Towing
+
+Heavy Duty Towing
+
+Each card includes:
+
+Modern icon
+
+Short description
+
+Hover animation
+
+---------------------------------------------------
+WHY CHOOSE US
+---------------------------------------------------
+
+Create feature cards.
+
+24/7 Availability
+
+Fast Response Time
+
+Licensed & Insured
+
+Affordable Pricing
+
+Experienced Drivers
+
+Customer Satisfaction
+
+---------------------------------------------------
+STATISTICS
+---------------------------------------------------
+
+Animated counters.
+
+1000+
+
+Vehicles Towed
+
+24/7
+
+Availability
+
+5★
+
+Customer Rating
+
+15+
+
+Years Experience
+
+---------------------------------------------------
+ABOUT SECTION
+---------------------------------------------------
+
+Professional image.
+
+Modern content layout.
+
+Tell customers why Best Towing is reliable.
+
+---------------------------------------------------
+REVIEWS
+---------------------------------------------------
+
+Display:
+
+★★★★★
+
+5 Reviews
+
+5 Star Rating
+
+Create beautiful testimonial cards.
+
+Use realistic customer names.
+
+---------------------------------------------------
+FAQ
+---------------------------------------------------
+
+Accordion design.
+
+Examples:
+
+How quickly can you arrive?
+
+Do you provide roadside assistance?
+
+Are you available 24/7?
+
+How much does towing cost?
+
+---------------------------------------------------
+CONTACT
+---------------------------------------------------
+
+Modern contact section.
+
+Display:
+
+Phone
+
+Address
+
+Business Hours
+
+Google Map placeholder
+
+Large Call Now button.
+
+---------------------------------------------------
+FOOTER
+---------------------------------------------------
+
+Logo
+
+Quick Links
+
+Services
+
+Contact Information
+
+Social Icons
+
+Copyright
+
+---------------------------------------------------
+SPECIAL FEATURES
+---------------------------------------------------
+
+Sticky Navigation
+
+Transparent Navbar
+
+Changes on Scroll
+
+Animated Hero
+
+Wave Separators
+
+Gradient Backgrounds
+
+Floating WhatsApp Button
+
+Floating Call Button
+
+Back To Top
+
+Image Lazy Loading
+
+Skeleton Loading Effects
+
+Smooth Page Transitions
+
+Modern Cards
+
+Rounded Buttons
+
+Hover Elevation
+
+---------------------------------------------------
+RESPONSIVE
+---------------------------------------------------
+
+Fully responsive.
+
+Desktop
+
+Laptop
+
+Tablet
+
+Mobile
+
+---------------------------------------------------
+SEO
+---------------------------------------------------
+
+Create proper SEO.
+
+Meta Title
+
+Meta Description
+
+Open Graph Tags
+
+Twitter Tags
+
+Schema Markup
+
+Local Business Schema
+
+Proper Heading Structure
+
+Alt Tags
+
+Semantic HTML
+
+Fast Loading
+
+---------------------------------------------------
+PERFORMANCE
+---------------------------------------------------
+
+Optimize everything.
+
+Lazy load images.
+
+Compressed assets.
+
+Minimal JavaScript.
+
+Fast animations.
+
+---------------------------------------------------
+TECHNOLOGY
+---------------------------------------------------
+
+Use:
+
+HTML5
+
+CSS3
+
+Bootstrap 5
+
+JavaScript ES6
+
+AOS Animation Library
+
+Font Awesome
+
+Google Fonts
+
+No unnecessary frameworks.
+
+Clean code.
+
+Reusable components.
+
+---------------------------------------------------
+EXTRA POLISH
+---------------------------------------------------
+
+Make the design feel premium.
+
+Include subtle background patterns.
+
+Add section dividers.
+
+Use modern gradients sparingly.
+
+Create beautiful CTA sections.
+
+Use professional spacing.
+
+Every section should have smooth entrance animations.
+
+Buttons should feel interactive.
+
+Cards should elevate on hover.
+
+Images should have subtle zoom effects.
+
+The website should look like it was built by a top US web design agency.
+
+---------------------------------------------------
+FINAL OUTPUT
+---------------------------------------------------
+
+Generate the complete website in one go with:
+
+index.html
+
+style.css
+
+script.js
+
+assets folder structure
+
+Well-commented code
+
+Fully responsive layout
+
+Professional animations
+
+Ready to deploy
+
+No placeholders except images where necessary.
+
+The final result should be visually stunning, highly optimized, modern, and capable of impressing clients immediately.
